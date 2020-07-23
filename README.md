@@ -28,7 +28,7 @@
 - Resume: <a href="https://drive.google.com/file/d/1decYwof4R5GztWTuhQYspHF1-RJnZkxf/view?usp=sharing">Click me!</a>
 
 [![Twitter: darkshadow](https://img.shields.io/twitter/follow/darkshadow9799?style=social)](https://twitter.com/darkshadow9799)
-[![Linkedin: aayush](https://img.shields.io/badge/-aayush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aayush-jain-88a674148/)](https://www.linkedin.com/in/imthepk/)
+[![Linkedin: aayush](https://img.shields.io/badge/-aayush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aayush-jain-88a674148/)](https://www.linkedin.com/in/aayush-jain-88a674148/)
 [![GitHub darkshadow](https://img.shields.io/github/followers/darkshadow9799?label=follow&style=social)](https://github.com/darkshadow9799)
 
 **Languages and Tools:**  
