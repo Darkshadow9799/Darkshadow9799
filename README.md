@@ -25,7 +25,7 @@
 - 💬 Ask me about Python programming and competitive programming.
 - 📫 How to reach me: Email : <a href="mailto: jainaayush99.aj@gmail.com">Email</a>, <a href="https://www.instagram.com/mr_aayush_jain/">Instagram</a>, <a href="https://twitter.com/Darkshadow9799">Twitter</a>, <a href="https://www.kaggle.com/aayushjain9799/">Kaggle Account</a>.
 - ⚡ Fun fact: I like to watch sci-fi movies.
-- Resume: <a href="https://drive.google.com/file/d/1decYwof4R5GztWTuhQYspHF1-RJnZkxf/view?usp=sharing">Click me!</a>
+- Resume: <a href="https://drive.google.com/file/d/1Ns3v72ojMCxqebb_q0oJHNpX56RS3axl/view?usp=sharing">Click me!</a>
 
 [![Twitter: darkshadow](https://img.shields.io/twitter/follow/darkshadow9799?style=social)](https://twitter.com/darkshadow9799)
 [![Linkedin: aayush](https://img.shields.io/badge/-aayush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aayush-jain-88a674148/)](https://www.linkedin.com/in/aayush-jain-88a674148/)
