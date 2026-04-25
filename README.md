@@ -1,48 +1,69 @@
-### Hi there 👋
+# Hi there 👋 I'm Aayush Jain
 
-<a href="https://twitter.com/darkshadow9799">
-  <img align="left" alt="Aayush's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/aayush-jain-88a674148">
-  <img align="left" alt="Aayush's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/darkshadow9799">
-  <img align="left" alt="Aayush's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/mr_aayush_jain/">
-  <img align="left" alt="Aayush's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/aayush.jain.9843/">
-  <img align="left" alt="Aayush's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+## 🔭 About Me
+**Software Development Engineer II @ Amazon** | Cloud Solutions • AI/ML • Platform Engineering
 
-<br/>
-<br/>
+- 🚀 Building scalable, multi-tenant systems serving tens of thousands of users
+- 💡 Architecting cloud-native solutions with focus on cost optimization and performance
+- 🎯 Experienced in LLM-powered applications, real-time data processing, and event-driven architectures
+- 👨‍💼 Technical leadership in system design, mentoring, and cross-team collaboration
 
+## 🛠️ Tech Stack
 
-- 🌱 I’m currently learning Deep Learning
-- 👯 I’m looking to collaborate on MLOps.
-- 💬 Ask me about Python programming and competitive programming.
-- 📫 How to reach me: Email : <a href="mailto: jainaayush99.aj@gmail.com">Email</a>, <a href="https://www.instagram.com/mr_aayush_jain/">Instagram</a>, <a href="https://twitter.com/Darkshadow9799">Twitter</a>, <a href="https://www.kaggle.com/aayushjain9799/">Kaggle</a>.
-- ⚡ Fun fact: I like to watch sci-fi movies.
-- Resume: <a href="https://drive.google.com/file/d/12gsROKFVJb4GzUVzF5cATTMzZuQJEoZp/view?usp=drivesdk">Click me!</a>
-- Blog: <a href="https://jainaayush.medium.com">Have a look!!</a>
+**Languages:** TypeScript • JavaScript • Java • Python  
+**Frontend:** React • React Native • Angular  
+**Backend:** Spring Boot • Node.js • Express • FastAPI  
+**Cloud & DevOps:** AWS (CDK, Lambda, ECS, S3, DynamoDB, Bedrock) • Docker  
+**AI/ML:** LangChain • TensorFlow • PyTorch • Amazon Bedrock  
+**Tools:** Git • REST APIs • Wireshark • Postman  
 
+## 🌟 What I'm Working On
 
-**Languages and Tools:**  
+🔭 Exploring modern platform engineering and DevOps practices  
+🤖 Building with Large Language Models and Generative AI  
+⚡ Cloud infrastructure optimization and cost management  
+📱 Mobile application development with React Native  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>    
+## 💼 Professional Experience Highlights
 
-<a href="https://github.com/darkshadow9799">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkshadow9799&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/darkshadow9799">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkshadow9799&show_icons=true&theme=dracula&line_height=27" alt="DarkShadow's github stats"/>
-</a>
+**Amazon (Dec 2021 - Present)**
+- Architecting enterprise-scale cloud solutions
+- Leading technical initiatives with measurable business impact
+- Mentoring engineers and driving engineering excellence
+- AWS Security Certification
+
+**Previous Experience**
+- Full-stack development with Spring Boot and Angular
+- Event-driven microservices architecture
+- API design and integration
+
+## 🎓 Open Source & Learning
+
+Currently exploring:
+- 🚀 Platform Engineering with Harness
+- ☸️ Kubernetes and GitOps workflows
+- 🤖 LLM application patterns
+- 📊 Cost optimization strategies
+
+## 📝 Technical Writing
+
+I write about software engineering, cloud architecture, and AI/ML on [Medium](https://jainaayush.medium.com)
+
+Recent topics:
+- Cloud-native architecture patterns
+- AI/ML engineering practices
+- Platform engineering insights
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-jain-darkshadow)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://jainaayush.medium.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jainaayush99.aj@gmail.com)
+
+---
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
